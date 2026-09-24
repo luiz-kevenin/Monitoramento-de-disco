@@ -1,4 +1,4 @@
-# Disk Alert - Discord Webhook Monitor
+# Monitoramento de disco - Discord Webhook Monitor
 
 Script em Bash para monitoramento de uso de disco com envio de alertas
 via Webhook do Discord.
