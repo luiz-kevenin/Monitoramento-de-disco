@@ -11,7 +11,7 @@ STATE_DIR="/var/lib/disk-alert"
 STATE_FILE="${STATE_DIR}/state.db"
 LOCK_FILE="/var/run/disk-alert.lock"
 
-# A URL abaixo é preenchida dinamicamente pelo Ansible
+# A URL abaixo é o webhook do discord
 DISCORD_URL="xxxx"
 
 PARTITIONS=(
