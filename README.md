@@ -221,13 +221,6 @@ O script é praticamente stateless, exceto pelo arquivo local de estado.
 
 ------------------------------------------------------------------------
 
-# Autor
-
-Projeto desenvolvido para uso interno de monitoramento de
-infraestrutura.
-
-------------------------------------------------------------------------
-
 # Resumo Arquitetural
 
 O monitoramento funciona de forma híbrida:
