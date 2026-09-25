@@ -152,14 +152,14 @@ PARTITIONS=(
 ## Relatórios fixos (modo report):
 
 ``` bash
-0 8 * * *  /usr/local/bin/disk_alert.sh report
-0 20 * * * /usr/local/bin/disk_alert.sh report
+0 8 * * *  /caminho/do/script/disk_alert.sh report
+0 20 * * * /caminho/do/script/disk_alert.sh report
 ```
 
 ## Monitoramento contínuo (modo watch):
 
 ``` bash
-*/5 * * * * /usr/local/bin/disk_alert.sh watch
+*/5 * * * * /caminho/disk_alert.sh watch
 ```
 
 ------------------------------------------------------------------------
